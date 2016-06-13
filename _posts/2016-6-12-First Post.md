@@ -11,11 +11,11 @@ I did not do much last week for this class other than keeping up with the inclas
 
 ### What's in your way?
 
-Time is always my issue. I work a full time job and so motivating myself to do school work when I get home for a long day at work can be tough. Getting over the initial hurdle is my biggest problem. Once I get going on the project I will knock it out. Just gotta convince myself to start it.
+Time is always my issue. I work a full time job and so motivating myself to do school work when I get home from a long day at work can be tough. Getting over the initial hurdle is my biggest problem. Once I get going on the project I will knock it out. I just have to start it.
 
 ### What will you do next week?
 
-I will be finish up Collatz this next week and do the readings. I will also try and get ahead on the next project so that I don't keep up this whole procrastination thing that I have going on right now.
+I will be finishing up Collatz this next week and doing the readings. I will also try and get ahead on the next project so that I don't keep up this whole procrastination thing that I have going on right now.
 
 ### Overall class comments
 
