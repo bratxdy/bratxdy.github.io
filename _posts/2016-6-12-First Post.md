@@ -3,6 +3,8 @@ layout: post
 title: 6/12 Post
 ---
 
+First Blog Post!
+
 ### What did you do this past week?
 
 I did not do much last week for this class other than keeping up with the inclass materials. I haven't started the project yet as I took OOP last semester so I already have the code in C++ I just need to convert it over to Python and make sure I have all the new tools set up.
