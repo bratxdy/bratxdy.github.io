@@ -3,7 +3,7 @@ layout: post
 title: 7/25 Post
 ---
 
-Last Blog Post!
+Last Post!
 
 ### Summary
 
